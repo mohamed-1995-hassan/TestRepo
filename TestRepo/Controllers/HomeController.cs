@@ -20,7 +20,7 @@ namespace TestRepo.Controllers
 
         public IActionResult Index()
         {
-            return View("");
+            return View("mohamed");
         }
 
         public IActionResult Privacy()
